@@ -6284,6 +6284,12 @@
           "En esta conferencia, aprenderás sobre la recursión y la pila de llamadas."
         ]
       },
+      "lab-countdown": {
+        "title": "Build a Countdown",
+        "intro": [
+          "For this lab, you will build a countdown function that returns an array of numbers counting down from given number to 1."
+        ]
+      },
       "workshop-decimal-to-binary-converter": {
         "title": "Construir un Convertidor de Decimal a Binario",
         "intro": [
